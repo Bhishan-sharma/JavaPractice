@@ -1,5 +1,5 @@
 # JavaPractice
-These are the first 5 daya of my 30 days journey which i started on 28 june.
+This was 30 days journey which i started on 28 june 2023.
 
 
 
